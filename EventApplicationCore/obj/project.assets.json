@@ -11933,11 +11933,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MyProjects\\Makesoft\\TransportDotNetCore - Copy\\EventApplicationCore\\MyAccountProject.csproj",
+      "projectUniqueName": "D:\\MyProjects\\Makesoft\\GithubSource\\KarthikeyaTransport\\EventApplicationCore\\MyAccountProject.csproj",
       "projectName": "MyAccountProject",
-      "projectPath": "D:\\MyProjects\\Makesoft\\TransportDotNetCore - Copy\\EventApplicationCore\\MyAccountProject.csproj",
+      "projectPath": "D:\\MyProjects\\Makesoft\\GithubSource\\KarthikeyaTransport\\EventApplicationCore\\MyAccountProject.csproj",
       "packagesPath": "C:\\Users\\srini\\.nuget\\packages\\",
-      "outputPath": "D:\\MyProjects\\Makesoft\\TransportDotNetCore - Copy\\EventApplicationCore\\obj\\",
+      "outputPath": "D:\\MyProjects\\Makesoft\\GithubSource\\KarthikeyaTransport\\EventApplicationCore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
