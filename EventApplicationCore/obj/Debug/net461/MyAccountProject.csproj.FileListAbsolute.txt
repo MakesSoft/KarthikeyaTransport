@@ -1,0 +1,733 @@
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\MyAccountProject.exe.config
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\MyAccountProject.deps.json
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\MyAccountProject.exe
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\MyAccountProject.pdb
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\libuv.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\Microsoft.ApplicationInsights.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\Microsoft.AI.Agent.Intercept.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\Microsoft.ApplicationInsights.AspNetCore.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\Microsoft.AI.DependencyCollector.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Antiforgery.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Authorization.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Cors.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Hosting.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Http.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Localization.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Mvc.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Cors.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Localization.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Razor.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Razor.Host.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Razor.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Routing.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Session.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.StaticFiles.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\Microsoft.CodeAnalysis.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\Microsoft.CodeAnalysis.Workspaces.Desktop.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\System.Composition.AttributedModel.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\System.Composition.Convention.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\System.Composition.Hosting.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\System.Composition.Runtime.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\System.Composition.TypedParts.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\Microsoft.EntityFrameworkCore.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.CommandLineUtils.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Configuration.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.DependencyModel.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Globalization.CultureInfoCache.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Localization.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Localization.Abstractions.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Logging.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Logging.Console.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.ObjectPool.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Options.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Primitives.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.WebEncoders.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\Microsoft.Net.Http.Headers.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\Microsoft.VisualStudio.Web.BrowserLink.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\dotnet-aspnet-codegenerator-design.exe
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\Microsoft.Win32.Primitives.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\Newtonsoft.Json.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\NuGet.Frameworks.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\Remotion.Linq.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\System.AppContext.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\System.Buffers.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\System.Collections.Immutable.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\System.ComponentModel.Primitives.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\System.ComponentModel.TypeConverter.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\System.Console.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\System.Diagnostics.DiagnosticSource.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\System.Diagnostics.FileVersionInfo.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\System.Diagnostics.StackTrace.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\System.Globalization.Calendars.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\System.Interactive.Async.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\System.IO.Compression.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\System.IO.Compression.ZipFile.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\System.IO.FileSystem.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\System.IO.FileSystem.Primitives.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\System.Net.Http.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\System.Net.Sockets.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\System.Numerics.Vectors.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\System.Reflection.Metadata.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\System.Security.Cryptography.Algorithms.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\System.Security.Cryptography.Encoding.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\System.Security.Cryptography.Primitives.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\System.Security.Cryptography.X509Certificates.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\System.Text.Encoding.CodePages.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\System.Text.Encodings.Web.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\System.Threading.Tasks.Extensions.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\System.Threading.Thread.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\System.Xml.ReaderWriter.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\System.Xml.XmlDocument.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\System.Xml.XPath.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\System.Xml.XPath.XDocument.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\EventApplicationCore.Concrete.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\EventApplicationCore.Interface.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\EventApplicationCore.Model.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\System.Linq.Dynamic.dll
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\EventApplicationCore.Concrete.pdb
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\EventApplicationCore.Concrete.dll.config
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\EventApplicationCore.Interface.pdb
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\bin\Debug\net461\EventApplicationCore.Model.pdb
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\obj\Debug\net461\MyAccountProject.csprojAssemblyReference.cache
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\obj\Debug\net461\MyAccountProject.exe.config
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\obj\Debug\net461\MyAccountProject.csproj.CoreCompileInputs.cache
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\obj\Debug\net461\MyAccountProject.AssemblyInfoInputs.cache
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\obj\Debug\net461\MyAccountProject.AssemblyInfo.cs
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\obj\Debug\net461\MyAccountProject.csproj.CopyComplete
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\obj\Debug\net461\MyAccountProject.exe
+C:\Users\srini\Downloads\core\MyAccountProject\EventApplicationCore\obj\Debug\net461\MyAccountProject.pdb
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\obj\Debug\net461\MyAccountProject.csprojAssemblyReference.cache
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\obj\Debug\net461\MyAccountProject.exe.config
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\obj\Debug\net461\MyAccountProject.csproj.CoreCompileInputs.cache
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\obj\Debug\net461\MyAccountProject.AssemblyInfoInputs.cache
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\obj\Debug\net461\MyAccountProject.AssemblyInfo.cs
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\obj\Debug\net461\MyAccountProject.exe
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\obj\Debug\net461\MyAccountProject.pdb
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\MyAccountProject.exe.config
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\MyAccountProject.deps.json
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\MyAccountProject.exe
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\MyAccountProject.pdb
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\libuv.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\Microsoft.ApplicationInsights.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\Microsoft.AI.Agent.Intercept.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\Microsoft.ApplicationInsights.AspNetCore.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\Microsoft.AI.DependencyCollector.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\Microsoft.AI.PerfCounterCollector.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\Microsoft.AI.ServerTelemetryChannel.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Antiforgery.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Authorization.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Cors.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.DataProtection.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Diagnostics.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Hosting.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Http.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Http.Extensions.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Http.Features.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.HttpOverrides.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.JsonPatch.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Localization.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Mvc.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Core.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Razor.Host.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Razor.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Routing.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Session.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.StaticFiles.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.WebUtilities.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\Microsoft.CodeAnalysis.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\Microsoft.CodeAnalysis.CSharp.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\Microsoft.CodeAnalysis.Workspaces.Desktop.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\Microsoft.CodeAnalysis.Workspaces.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\System.Composition.AttributedModel.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\System.Composition.Convention.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\System.Composition.Hosting.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\System.Composition.Runtime.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\System.Composition.TypedParts.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\Microsoft.DotNet.PlatformAbstractions.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\Microsoft.EntityFrameworkCore.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\Microsoft.EntityFrameworkCore.Design.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\Microsoft.EntityFrameworkCore.Relational.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Caching.Abstractions.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Caching.Memory.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.CommandLineUtils.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Configuration.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Configuration.Binder.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Configuration.Json.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.DependencyInjection.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.DependencyModel.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.FileProviders.Composite.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.FileProviders.Physical.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Globalization.CultureInfoCache.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Localization.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Localization.Abstractions.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Logging.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Logging.Abstractions.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Logging.Console.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Logging.Debug.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.ObjectPool.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Options.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.PlatformAbstractions.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Primitives.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.WebEncoders.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\Microsoft.Net.Http.Headers.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\Microsoft.VisualStudio.Web.BrowserLink.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\dotnet-aspnet-codegenerator-design.exe
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\Microsoft.Win32.Primitives.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\Newtonsoft.Json.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\NuGet.Frameworks.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\Remotion.Linq.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\System.AppContext.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\System.Buffers.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\System.Collections.Immutable.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\System.ComponentModel.Primitives.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\System.ComponentModel.TypeConverter.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\System.Console.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\System.Diagnostics.DiagnosticSource.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\System.Diagnostics.FileVersionInfo.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\System.Diagnostics.StackTrace.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\System.Globalization.Calendars.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\System.Interactive.Async.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\System.IO.Compression.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\System.IO.Compression.ZipFile.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\System.IO.FileSystem.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\System.IO.FileSystem.Primitives.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\System.Net.Http.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\System.Net.Sockets.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\System.Numerics.Vectors.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\System.Reflection.Metadata.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\System.Runtime.CompilerServices.Unsafe.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\System.Security.Cryptography.Algorithms.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\System.Security.Cryptography.Encoding.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\System.Security.Cryptography.Primitives.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\System.Security.Cryptography.X509Certificates.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\System.Text.Encoding.CodePages.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\System.Text.Encodings.Web.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\System.Threading.Tasks.Extensions.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\System.Threading.Thread.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\System.Xml.ReaderWriter.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\System.Xml.XmlDocument.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\System.Xml.XPath.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\bin\Debug\net461\System.Xml.XPath.XDocument.dll
+D:\MyProjects\Makesoft\TransportDotNetCore\EventApplicationCore\obj\Debug\net461\MyAccountProject.csproj.CopyComplete
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\MyAccountProject.exe.config
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\MyAccountProject.deps.json
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\MyAccountProject.exe
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\MyAccountProject.pdb
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.ApplicationInsights.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.AI.Agent.Intercept.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.ApplicationInsights.AspNetCore.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.AI.DependencyCollector.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.AI.PerfCounterCollector.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.AI.ServerTelemetryChannel.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Antiforgery.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Authorization.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Cors.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.DataProtection.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Diagnostics.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Hosting.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Http.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Http.Extensions.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Http.Features.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.HttpOverrides.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.JsonPatch.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Localization.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Mvc.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Core.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Razor.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Routing.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Session.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.StaticFiles.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.WebUtilities.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.CodeAnalysis.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.CodeAnalysis.CSharp.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.CodeAnalysis.Workspaces.Desktop.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.CodeAnalysis.Workspaces.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.Composition.AttributedModel.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.Composition.Convention.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.Composition.Hosting.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.Composition.Runtime.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.Composition.TypedParts.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.DotNet.PlatformAbstractions.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.EntityFrameworkCore.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.EntityFrameworkCore.Design.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.EntityFrameworkCore.Relational.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Caching.Abstractions.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Caching.Memory.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.CommandLineUtils.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Configuration.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Configuration.Binder.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Configuration.Json.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.DependencyInjection.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.DependencyModel.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.FileProviders.Composite.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.FileProviders.Physical.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Localization.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Localization.Abstractions.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Logging.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Logging.Abstractions.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Logging.Console.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Logging.Debug.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.ObjectPool.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Options.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.PlatformAbstractions.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Primitives.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.WebEncoders.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.Net.Http.Headers.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.VisualStudio.Web.BrowserLink.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\dotnet-aspnet-codegenerator-design.exe
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.Win32.Primitives.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Newtonsoft.Json.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\NuGet.Frameworks.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.AppContext.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.Buffers.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.Collections.Immutable.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.ComponentModel.Primitives.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.ComponentModel.TypeConverter.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.Console.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.Diagnostics.DiagnosticSource.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.Diagnostics.FileVersionInfo.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.Diagnostics.StackTrace.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.Globalization.Calendars.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.IO.Compression.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.IO.Compression.ZipFile.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.IO.FileSystem.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.IO.FileSystem.Primitives.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.Net.Http.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.Net.Sockets.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.Numerics.Vectors.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.Reflection.Metadata.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.Runtime.CompilerServices.Unsafe.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.Security.Cryptography.Algorithms.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.Security.Cryptography.Encoding.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.Security.Cryptography.Primitives.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.Security.Cryptography.X509Certificates.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.Text.Encoding.CodePages.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.Text.Encodings.Web.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.Threading.Tasks.Extensions.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.Threading.Thread.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.Xml.ReaderWriter.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.Xml.XmlDocument.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.Xml.XPath.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.Xml.XPath.XDocument.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\obj\Debug\net461\MyAccountProject.csprojAssemblyReference.cache
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\obj\Debug\net461\MyAccountProject.exe.config
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\obj\Debug\net461\MyAccountProject.csproj.CoreCompileInputs.cache
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\obj\Debug\net461\MyAccountProject.AssemblyInfoInputs.cache
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\obj\Debug\net461\MyAccountProject.AssemblyInfo.cs
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\obj\Debug\net461\MyAccountProject.csproj.CopyComplete
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\obj\Debug\net461\MyAccountProject.exe
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\obj\Debug\net461\MyAccountProject.pdb
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\refs\Microsoft.Win32.Primitives.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\refs\netfx.force.conflicts.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\refs\netstandard.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\refs\System.AppContext.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\refs\System.Collections.Concurrent.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\refs\System.Collections.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\refs\System.Collections.NonGeneric.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\refs\System.Collections.Specialized.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\refs\System.ComponentModel.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\refs\System.ComponentModel.EventBasedAsync.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\refs\System.ComponentModel.Primitives.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\refs\System.ComponentModel.TypeConverter.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\refs\System.Console.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\refs\System.Data.Common.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\refs\System.Diagnostics.Contracts.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\refs\System.Diagnostics.Debug.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\refs\System.Diagnostics.FileVersionInfo.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\refs\System.Diagnostics.Process.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\refs\System.Diagnostics.StackTrace.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\refs\System.Diagnostics.Tools.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\refs\System.Diagnostics.TraceSource.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\refs\System.Diagnostics.Tracing.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\refs\System.Drawing.Primitives.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\refs\System.Dynamic.Runtime.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\refs\System.Globalization.Calendars.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\refs\System.Globalization.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\refs\System.Globalization.Extensions.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\refs\System.IO.Compression.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\refs\System.IO.Compression.ZipFile.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\refs\System.IO.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\refs\System.IO.FileSystem.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\refs\System.IO.FileSystem.DriveInfo.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\refs\System.IO.FileSystem.Primitives.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\refs\System.IO.FileSystem.Watcher.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\refs\System.IO.IsolatedStorage.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\refs\System.IO.MemoryMappedFiles.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\refs\System.IO.Pipes.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\refs\System.IO.UnmanagedMemoryStream.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\refs\System.Linq.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\refs\System.Linq.Expressions.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\refs\System.Linq.Parallel.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\refs\System.Linq.Queryable.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\refs\System.Net.Http.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\refs\System.Net.NameResolution.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\refs\System.Net.NetworkInformation.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\refs\System.Net.Ping.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\refs\System.Net.Primitives.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\refs\System.Net.Requests.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\refs\System.Net.Security.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\refs\System.Net.Sockets.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\refs\System.Net.WebHeaderCollection.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\refs\System.Net.WebSockets.Client.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\refs\System.Net.WebSockets.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\refs\System.ObjectModel.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\refs\System.Reflection.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\refs\System.Reflection.Extensions.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\refs\System.Reflection.Primitives.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\refs\System.Resources.Reader.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\refs\System.Resources.ResourceManager.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\refs\System.Resources.Writer.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\refs\System.Runtime.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\refs\System.Runtime.Extensions.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\refs\System.Runtime.Handles.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\refs\System.Runtime.InteropServices.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\refs\System.Runtime.Numerics.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\refs\System.Runtime.Serialization.Formatters.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\refs\System.Runtime.Serialization.Json.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\refs\System.Runtime.Serialization.Primitives.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\refs\System.Runtime.Serialization.Xml.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\refs\System.Security.Claims.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\refs\System.Security.Cryptography.Algorithms.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\refs\System.Security.Cryptography.Csp.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\refs\System.Security.Cryptography.Encoding.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\refs\System.Security.Cryptography.Primitives.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\refs\System.Security.Cryptography.X509Certificates.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\refs\System.Security.Principal.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\refs\System.Security.SecureString.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\refs\System.Text.Encoding.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\refs\System.Text.Encoding.Extensions.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\refs\System.Text.RegularExpressions.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\refs\System.Threading.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\refs\System.Threading.Overlapped.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\refs\System.Threading.Tasks.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\refs\System.Threading.Tasks.Parallel.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\refs\System.Threading.Thread.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\refs\System.Threading.ThreadPool.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\refs\System.Threading.Timer.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\refs\System.ValueTuple.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\refs\System.Xml.ReaderWriter.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\refs\System.Xml.XDocument.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\refs\System.Xml.XmlDocument.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\refs\System.Xml.XmlSerializer.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\refs\System.Xml.XPath.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\refs\System.Xml.XPath.XDocument.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.Bcl.AsyncInterfaces.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.Bcl.HashCode.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\MySqlConnector.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Pomelo.EntityFrameworkCore.MySql.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Pomelo.JsonObject.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.ComponentModel.Annotations.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.Memory.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\netstandard.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.Collections.Concurrent.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.Collections.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.Collections.NonGeneric.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.Collections.Specialized.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.ComponentModel.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.ComponentModel.EventBasedAsync.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.Data.Common.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.Diagnostics.Contracts.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.Diagnostics.Debug.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.Diagnostics.Process.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.Diagnostics.TextWriterTraceListener.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.Diagnostics.Tools.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.Diagnostics.TraceSource.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.Diagnostics.Tracing.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.Drawing.Primitives.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.Dynamic.Runtime.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.Globalization.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.Globalization.Extensions.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.IO.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.IO.FileSystem.DriveInfo.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.IO.FileSystem.Watcher.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.IO.IsolatedStorage.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.IO.MemoryMappedFiles.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.IO.Pipes.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.IO.UnmanagedMemoryStream.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.Linq.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.Linq.Expressions.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.Linq.Parallel.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.Linq.Queryable.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.Net.NameResolution.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.Net.NetworkInformation.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.Net.Ping.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.Net.Primitives.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.Net.Requests.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.Net.Security.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.Net.WebHeaderCollection.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.Net.WebSockets.Client.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.Net.WebSockets.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.ObjectModel.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.Reflection.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.Reflection.Extensions.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.Reflection.Primitives.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.Resources.Reader.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.Resources.ResourceManager.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.Resources.Writer.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.Runtime.CompilerServices.VisualC.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.Runtime.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.Runtime.Extensions.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.Runtime.Handles.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.Runtime.InteropServices.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.Runtime.Numerics.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.Runtime.Serialization.Formatters.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.Runtime.Serialization.Json.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.Runtime.Serialization.Primitives.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.Runtime.Serialization.Xml.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.Security.Claims.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.Security.Cryptography.Csp.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.Security.Principal.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.Security.SecureString.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.Text.Encoding.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.Text.Encoding.Extensions.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.Text.RegularExpressions.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.Threading.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.Threading.Overlapped.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.Threading.Tasks.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.Threading.Tasks.Parallel.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.Threading.ThreadPool.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.Threading.Timer.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.ValueTuple.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.Xml.XDocument.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.Xml.XmlSerializer.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\obj\Debug\net461\MyAccountProject.RazorAssemblyInfo.cache
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\obj\Debug\net461\MyAccountProject.RazorAssemblyInfo.cs
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\MyAccountProject.Views.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\MyAccountProject.Views.pdb
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.DiaSymReader.Native.x86.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Authentication.Core.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.HostFiltering.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Razor.Language.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Server.IIS.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.CodeAnalysis.Razor.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Logging.Configuration.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.Extensions.Logging.EventSource.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.Win32.Registry.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Newtonsoft.Json.Bson.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.IO.Pipelines.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.Security.AccessControl.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.Security.Cryptography.Cng.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.Security.Cryptography.Xml.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.Security.Permissions.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.Security.Principal.Windows.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\obj\Debug\net461\MyAccountProject.TagHelpers.input.cache
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\obj\Debug\net461\MyAccountProject.TagHelpers.output.cache
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\obj\Debug\net461\MyAccountProject.RazorCoreGenerate.cache
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\obj\Debug\net461\Razor\Views\Admin\Dashboard.g.cshtml.cs
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\obj\Debug\net461\Razor\Views\Category\Create.g.cshtml.cs
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\obj\Debug\net461\Razor\Views\Category\Edit.g.cshtml.cs
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\obj\Debug\net461\Razor\Views\Category\List.g.cshtml.cs
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\obj\Debug\net461\Razor\Views\Error\Error.g.cshtml.cs
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\obj\Debug\net461\Razor\Views\Group\Create.g.cshtml.cs
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\obj\Debug\net461\Razor\Views\Group\Edit.g.cshtml.cs
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\obj\Debug\net461\Razor\Views\Group\List.g.cshtml.cs
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\obj\Debug\net461\Razor\Views\Home\About.g.cshtml.cs
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\obj\Debug\net461\Razor\Views\Home\Contact.g.cshtml.cs
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\obj\Debug\net461\Razor\Views\Home\Index.g.cshtml.cs
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\obj\Debug\net461\Razor\Views\ItemMasterSettings\List.g.cshtml.cs
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\obj\Debug\net461\Razor\Views\ItemMaster\Create.g.cshtml.cs
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\obj\Debug\net461\Razor\Views\ItemMaster\Edit.g.cshtml.cs
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\obj\Debug\net461\Razor\Views\ItemMaster\List.g.cshtml.cs
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\obj\Debug\net461\Razor\Views\LedgerMaster\CreateCustomerMaster.g.cshtml.cs
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\obj\Debug\net461\Razor\Views\LedgerMaster\CreateLedgerHead.g.cshtml.cs
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\obj\Debug\net461\Razor\Views\LedgerMaster\CreateSupplierMaster.g.cshtml.cs
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\obj\Debug\net461\Razor\Views\LedgerMaster\EditCustomerMaster.g.cshtml.cs
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\obj\Debug\net461\Razor\Views\LedgerMaster\EditLedgerHead.g.cshtml.cs
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\obj\Debug\net461\Razor\Views\LedgerMaster\EditSupplierMaster.g.cshtml.cs
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\obj\Debug\net461\Razor\Views\LedgerMaster\List.g.cshtml.cs
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\obj\Debug\net461\Razor\Views\Login\Login.g.cshtml.cs
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\obj\Debug\net461\Razor\Views\MenuMaster\Index.g.cshtml.cs
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\obj\Debug\net461\Razor\Views\Registration\Registration.g.cshtml.cs
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\obj\Debug\net461\Razor\Views\Settings\Index.g.cshtml.cs
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\obj\Debug\net461\Razor\Views\Shared\Components\DataTableScripts\Default.g.cshtml.cs
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\obj\Debug\net461\Razor\Views\Shared\Components\DivElement\Default.g.cshtml.cs
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\obj\Debug\net461\Razor\Views\Shared\Components\ListFooter\Default.g.cshtml.cs
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\obj\Debug\net461\Razor\Views\Shared\Components\MenuMaster\Default.g.cshtml.cs
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\obj\Debug\net461\Razor\Views\Shared\Error.g.cshtml.cs
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\obj\Debug\net461\Razor\Views\Shared\_AdminLayout.g.cshtml.cs
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\obj\Debug\net461\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\obj\Debug\net461\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\obj\Debug\net461\Razor\Views\SubGroup\Create.g.cshtml.cs
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\obj\Debug\net461\Razor\Views\SubGroup\Edit.g.cshtml.cs
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\obj\Debug\net461\Razor\Views\SubGroup\List.g.cshtml.cs
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\obj\Debug\net461\Razor\Views\Unit\Create.g.cshtml.cs
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\obj\Debug\net461\Razor\Views\Unit\Edit.g.cshtml.cs
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\obj\Debug\net461\Razor\Views\Unit\List.g.cshtml.cs
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\obj\Debug\net461\Razor\Views\UserProfile\Profile.g.cshtml.cs
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\obj\Debug\net461\Razor\Views\UsersProfiles\Profile.g.cshtml.cs
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\obj\Debug\net461\Razor\Views\_ViewImports.g.cshtml.cs
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\obj\Debug\net461\Razor\Views\_ViewStart.g.cshtml.cs
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\obj\Debug\net461\MyAccountProject.RazorTargetAssemblyInfo.cache
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\obj\Debug\net461\MyAccountProject.RazorTargetAssemblyInfo.cs
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\obj\Debug\net461\MyAccountProject.Views.pdb
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Rotativa.AspNetCore.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.Web.Mvc.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.Web.Razor.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.Web.Helpers.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.Web.WebPages.Deployment.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.Web.WebPages.Razor.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\System.Web.WebPages.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Microsoft.Web.Infrastructure.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\bin\Debug\net461\Rotativa.dll
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\obj\Debug\net461\Razor\Views\SalesBill\Create.g.cshtml.cs
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\obj\Debug\net461\Razor\Views\SalesBill\Edit.g.cshtml.cs
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\obj\Debug\net461\Razor\Views\SalesBill\List.g.cshtml.cs
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\obj\Debug\net461\Razor\Views\SalesBill\Print.g.cshtml.cs
+D:\MyProjects\Makesoft\TransportDotNetCore - Copy\EventApplicationCore\obj\Debug\net461\Razor\Views\SalesBill\ViewPrint.g.cshtml.cs
