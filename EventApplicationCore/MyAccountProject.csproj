@@ -43,9 +43,6 @@
     <Content Update="Views\Group\List.cshtml">
       <Pack>$(IncludeRazorContentInPack)</Pack>
     </Content>
-    <Content Update="Views\SalesBill\ViewPrint.cshtml">
-      <Pack>$(IncludeRazorContentInPack)</Pack>
-    </Content>
     <Content Update="Views\SalesBill\Print.cshtml">
       <Pack>$(IncludeRazorContentInPack)</Pack>
     </Content>

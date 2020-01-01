@@ -3,6 +3,7 @@ using MyAccountProject.Model;
 using Rotativa.AspNetCore;
 using Rotativa.AspNetCore.Options;
 using System;
+using System.Collections.Generic;
 using System.Linq;
 
 namespace MyAccountProject.Controllers
@@ -73,8 +74,28 @@ namespace MyAccountProject.Controllers
             return words;
         }
 
-        public IActionResult Print(int id)
+        public IActionResult Print(int id, string PrintOptions)
         {
+            bool dispatch = false;
+
+            if (PrintOptions.Contains(",Dispatch"))
+            {
+                dispatch = true;
+                PrintOptions = PrintOptions.Replace(",Dispatch", "");
+            }
+            else if (PrintOptions.Contains("Dispatch"))
+            {
+                dispatch = true;
+                PrintOptions = PrintOptions.Replace("Dispatch", "");
+            }
+
+            List<string> printOptions = null;
+
+            if (!string.IsNullOrWhiteSpace(PrintOptions))
+            {
+                printOptions = PrintOptions.Split(',').ToList();
+            }
+
             var salesBillViewModel = from salesBill in _context.SalesBill
                                      join ledgerMaster in _context.LedgerMaster on salesBill.ConsignorId equals ledgerMaster.LedgerMasterId
                                      join ledgerMaster1 in _context.LedgerMaster on salesBill.ConsigneeId equals ledgerMaster1.LedgerMasterId
@@ -132,7 +153,9 @@ namespace MyAccountProject.Controllers
             var SalesBillPrintViewModel = new SalesBillPrintViewModel
             {
                 SalesBillViewModel = salesBillViewModel.FirstOrDefault(),
-                SalesItemBillViewModel = salesBillItems.ToList()
+                SalesItemBillViewModel = salesBillItems.ToList(),
+                PrintOptions = printOptions,
+                DispatchPrint = dispatch
             };
 
             return new ViewAsPdf("Print", SalesBillPrintViewModel)
@@ -141,72 +164,6 @@ namespace MyAccountProject.Controllers
                 PageOrientation = Orientation.Portrait,
                 PageMargins = { Left = 0, Right = 0 }, // it's in millimeters
             };
-        }
-
-        public IActionResult ViewPrint(int id)
-        {
-            var salesBillViewModel = from salesBill in _context.SalesBill
-                                     join ledgerMaster in _context.LedgerMaster on salesBill.ConsignorId equals ledgerMaster.LedgerMasterId
-                                     join ledgerMaster1 in _context.LedgerMaster on salesBill.ConsigneeId equals ledgerMaster1.LedgerMasterId
-                                     where salesBill.SalesBillId == id
-                                     select new SalesBillViewModel
-                                     {
-                                         SalesBillId = salesBill.SalesBillId,
-                                         InvoiceNo = salesBill.InvoiceNo,
-                                         SalesBillDate = salesBill.SalesBillDate,
-                                         ConsignorName = ledgerMaster.LedgerMasterName,
-                                         ConsignorGst = ledgerMaster.GSTNumber,
-                                         ConsignorAddress = ledgerMaster.Address,
-                                         ConsignorPhone = ledgerMaster.MobileNumber,
-                                         ConsigneeName = ledgerMaster1.LedgerMasterName,
-                                         ConsigneeGst = ledgerMaster1.GSTNumber,
-                                         ConsigneeAddress = ledgerMaster1.Address,
-                                         ConsigneePhone = ledgerMaster1.MobileNumber,
-                                         Value = salesBill.Value,
-                                         ModeOfPay = salesBill.ModeOfPay,
-                                         LRNo = salesBill.LRNo,
-                                         EWayBillNo = salesBill.EWayBillNo,
-                                         LorryNo = salesBill.LorryNo,
-                                         DispatchThrough = salesBill.DispatchThrough,
-                                         PaymentMode = salesBill.PaymentMode,
-                                         BillType = salesBill.BillType,
-                                         DeliveryAt = salesBill.DeliveryAt,
-                                         TotalAmount = salesBill.TotalAmount,
-                                         DoorDeliveryCharge = salesBill.DoorDeliveryCharge,
-                                         AssableValue = salesBill.AssableValue,
-                                         GstPercentage = salesBill.GstPercentage,
-                                         GstAmount = salesBill.GstAmount,
-                                         LoadingExpenses = salesBill.LoadingExpenses,
-                                         RoundOff = salesBill.RoundOff,
-                                         GrandTotal = salesBill.GrandTotal,
-                                         PreviousBalance = salesBill.PreviousBalance,
-                                         CurrentBalance = salesBill.CurrentBalance,
-                                         AdvanceAmount = salesBill.AdvanceAmount,
-                                         BalanceAmount = salesBill.BalanceAmount,
-                                         ValueInText = NumberToWords(Convert.ToInt32(salesBill.Value))
-                                     };
-
-            var salesBillItems = from salesBillItem in _context.SalesBillItems
-                                 join itemMaster in _context.ItemMaster on salesBillItem.ItemMasterId equals itemMaster.ItemMasterId
-                                 where salesBillItem.SalesBillId == id
-                                 select new SalesBillItemsViewModel
-                                 {
-                                     SalesBillItemsId = salesBillItem.SalesBillItemsId,
-                                     ItemMasterName = itemMaster.ItemMasterName,
-                                     Qty = salesBillItem.Qty,
-                                     Description = salesBillItem.Description,
-                                     Weight = salesBillItem.Weight,
-                                     Amount = salesBillItem.Amount
-                                 };
-
-            var SalesBillPrintViewModel = new SalesBillPrintViewModel
-            {
-                SalesBillViewModel = salesBillViewModel.FirstOrDefault(),
-                SalesItemBillViewModel = salesBillItems.ToList()
-            };
-
-            //return new ViewAsPdf("Print", SalesBillPrintViewModel);
-            return View(SalesBillPrintViewModel);
         }
 
         [HttpGet]
