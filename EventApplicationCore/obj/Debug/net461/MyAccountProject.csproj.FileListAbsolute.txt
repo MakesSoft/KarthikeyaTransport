@@ -1126,7 +1126,6 @@ D:\MyProjects\Makesoft\GithubSource\KarthikeyaTransport\EventApplicationCore\obj
 D:\MyProjects\Makesoft\GithubSource\KarthikeyaTransport\EventApplicationCore\obj\Debug\net461\Razor\Views\SalesBill\Edit.g.cshtml.cs
 D:\MyProjects\Makesoft\GithubSource\KarthikeyaTransport\EventApplicationCore\obj\Debug\net461\Razor\Views\SalesBill\List.g.cshtml.cs
 D:\MyProjects\Makesoft\GithubSource\KarthikeyaTransport\EventApplicationCore\obj\Debug\net461\Razor\Views\SalesBill\Print.g.cshtml.cs
-D:\MyProjects\Makesoft\GithubSource\KarthikeyaTransport\EventApplicationCore\obj\Debug\net461\Razor\Views\SalesBill\ViewPrint.g.cshtml.cs
 D:\MyProjects\Makesoft\GithubSource\KarthikeyaTransport\EventApplicationCore\obj\Debug\net461\Razor\Views\Settings\Index.g.cshtml.cs
 D:\MyProjects\Makesoft\GithubSource\KarthikeyaTransport\EventApplicationCore\obj\Debug\net461\Razor\Views\Shared\Components\DataTableScripts\Default.g.cshtml.cs
 D:\MyProjects\Makesoft\GithubSource\KarthikeyaTransport\EventApplicationCore\obj\Debug\net461\Razor\Views\Shared\Components\DivElement\Default.g.cshtml.cs
